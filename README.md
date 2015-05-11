@@ -1,2 +1,0 @@
-# c
-c util library
